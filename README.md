@@ -5,7 +5,7 @@ It is a more complete example of database called Sakila for sql server 2019 and 
 
 # ACADEMY DINOSAUR MOVIE
 
-![](doc\academy_dinosaur.jpg)
+![](doc/academy_dinosaur.jpg)
 
 *This image is just for reference. Copyright their own authors.*
 

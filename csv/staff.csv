@@ -1,0 +1,56 @@
+"staff_id","first_name","last_name","address_id","picture","email","store_id","active","username","password","last_update"
+1,"Mike","Hillyer",3,,"Mike.Hillyer@sakilastaff.com",1,1,"Mike","8cb2237d0679ca88db6464eac60da96345513964",2006-02-15 04:57:16
+2,"Jon","Stephens",4,,"Jon.Stephens@sakilastaff.com",2,1,"Jon","8cb2237d0679ca88db6464eac60da96345513964",2006-02-15 04:57:16
+3,"Guillermo","Littel",292,,"Guillermo.Littel@sakila.com",2,1,"Guillermo.Littel","Congue vivamus vehicula molestie.",2010-01-01 19:43:57
+4,"Lois","Schroeder",264,,"Lois.Schroeder@sakila.com",1,1,"Lois.Schroeder","Nulla suscipit placerat vestibulum at.",2010-02-01 06:54:01
+5,"Tristin","Fisher",297,,"Tristin.Fisher@sakila.com",2,1,"Tristin.Fisher","Lectus velit et suspendisse felis.",2010-02-01 08:42:44
+6,"Alford","Breitenberg",308,,"Alford.Breitenberg@sakila.com",2,0,"Alford.Breitenbe","Nunc tortor luctus facilisi lectus.",2010-03-01 00:54:07
+7,"Liana","Koepp",514,,"Liana.Koepp@sakila.com",1,0,"Liana.Koepp","Porta Porta.",2010-03-01 10:42:19
+8,"Granville","Kuphal",111,,"Granville.Kuphal@sakila.com",1,0,"Granville.Kuphal","Ex scelerisque ultrices arcu aliquam.",2010-03-01 16:53:36
+9,"Daryl","Corwin",226,,"Daryl.Corwin@sakila.com",1,1,"Daryl.Corwin","Sem elit nec consectetur duis fermentum.",2010-04-01 12:16:37
+10,"Leslie","Orn",566,,"Leslie.Orn@sakila.com",1,1,"Leslie.Orn","Fames leo ornare vivamus iaculis duis.",2010-05-01 06:18:34
+11,"Jamar","Kunde",111,,"Jamar.Kunde@sakila.com",2,1,"Jamar.Kunde","A ipsum adipiscing ante tellus et risus.",2010-06-01 03:26:59
+12,"Charlotte","Gottlieb",559,,"Charlotte.Gottlieb@sakila.com",2,0,"Charlotte.Gottli","Phasellus ullamcorper laoreet.",2010-07-01 00:18:35
+13,"Gwendolyn","Effertz",111,,"Gwendolyn.Effertz@sakila.com",2,0,"Gwendolyn.Effert","Lectus praesent facilisi proin vitae.",2010-07-01 18:45:58
+14,"Pauline","Rau",72,,"Pauline.Rau@sakila.com",1,1,"Pauline.Rau","Nec fermentum consectetur proin.",2010-08-01 05:10:40
+15,"Mireya","Gulgowski",529,,"Mireya.Gulgowski@sakila.com",2,1,"Mireya.Gulgowski","Phasellus iaculisut dapibus urna id.",2010-08-01 23:19:27
+16,"Ariane","Bosco",56,,"Ariane.Bosco@sakila.com",1,0,"Ariane.Bosco","Proin pellentesque facilisis tempor.",2010-09-01 01:27:38
+17,"Anahi","Moen",529,,"Anahi.Moen@sakila.com",1,0,"Anahi.Moen","Nulla justo non nam a efficitur viverra.",2010-10-01 00:11:38
+18,"Rick","Glover",463,,"Rick.Glover@sakila.com",1,1,"Rick.Glover","Erat gravida eros sem nullam eget quam.",2010-10-01 18:58:50
+19,"Nellie","Rippin",601,,"Nellie.Rippin@sakila.com",2,1,"Nellie.Rippin","Ornare efficitur tempor eget.",2010-11-01 17:16:53
+20,"Lorenz","West",266,,"Lorenz.West@sakila.com",1,1,"Lorenz.West","Tristique a ante Tristique a ante.",2010-12-01 07:52:57
+21,"Carmel","Nader",501,,"Carmel.Nader@sakila.com",2,1,"Carmel.Nader","Eleifend finibus tristique quisque.",2010-12-01 22:53:57
+62,"Reggie","Shields",45,,"Reggie.Shields@sakila.com",2,1,"Reggie.Shields","Magna dapibus eget eget amet suscipit.",2010-01-02 15:34:18
+63,"Alvis","Parisian",322,,"Alvis.Parisian@sakila.com",1,0,"Alvis.Parisian","Est tellus tincidunt aliquam faucibus.",2010-01-02 18:46:55
+64,"Keenan","McKenzie",116,,"Keenan.McKenzie@sakila.com",2,1,"Keenan.McKenzie","Maecenas sagittis eget porta nullam.",2010-02-02 09:51:23
+65,"Wallace","Nienow",556,,"Wallace.Nienow@sakila.com",1,0,"Wallace.Nienow","Erat nulla leo feugiat cras congue.",2010-02-02 15:23:49
+66,"Joesph","Padberg",87,,"Joesph.Padberg@sakila.com",1,0,"Joesph.Padberg","Commodo dui tempor purus quam ipsum.",2010-03-02 03:47:35
+67,"Carolyne","Pacocha",479,,"Carolyne.Pacocha@sakila.com",2,0,"Carolyne.Pacocha","Gravida erat mattis nullam mi risus.",2010-03-02 20:09:24
+68,"Mollie","Johnson",410,,"Mollie.Johnson@sakila.com",2,0,"Mollie.Johnson","Purus elit mattis odio id condimentum.",2010-04-02 10:48:39
+69,"Charity","Johnson",68,,"Charity.Johnson@sakila.com",1,0,"Charity.Johnson","Sagittis adipiscing iaculisut velit ut.",2010-05-02 04:54:06
+70,"Nathaniel","Jenkins",381,,"Nathaniel.Jenkins@sakila.com",1,1,"Nathaniel.Jenkin",".",2010-05-02 09:47:24
+71,"Emmanuelle","Rowe",316,,"Emmanuelle.Rowe@sakila.com",1,1,"Emmanuelle.Rowe","Vehicula nisi integer porta diam luctus.",2010-05-02 12:48:31
+72,"Nat","Zboncak",309,,"Nat.Zboncak@sakila.com",2,1,"Nat.Zboncak","Commodo mollis dolor risus tristique.",2010-05-02 19:59:47
+73,"Retha","Windler",4,,"Retha.Windler@sakila.com",1,1,"Retha.Windler","Sagittis mattis quisque nunc Sagittis.",2010-06-02 17:51:25
+74,"Uriel","Kohler",292,,"Uriel.Kohler@sakila.com",1,1,"Uriel.Kohler","Vivamus tristique neque risus interdum.",2010-06-02 22:06:33
+75,"Tomas","Braun",528,,"Tomas.Braun@sakila.com",2,0,"Tomas.Braun","Tinciduntnulla quisque justo enim ipsum.",2010-07-02 20:08:08
+76,"Lonzo","Quigley",279,,"Lonzo.Quigley@sakila.com",1,1,"Lonzo.Quigley","Donec quam a facilisi vel sit lorem.",2010-08-02 18:46:30
+77,"Chyna","Volkman",256,,"Chyna.Volkman@sakila.com",2,0,"Chyna.Volkman","Fusce neque ullamcorper viverra.",2010-09-02 10:19:17
+78,"Treva","Barton",94,,"Treva.Barton@sakila.com",1,0,"Treva.Barton","Sem eu non mauris turpis mollis duis.",2010-10-02 08:38:29
+79,"Eric","Tremblay",289,,"Eric.Tremblay@sakila.com",2,1,"Eric.Tremblay","Nam duis mollis felis sapien laoreet.",2010-11-02 08:37:04
+80,"Marcelina","Orn",473,,"Marcelina.Orn@sakila.com",2,1,"Marcelina.Orn","Tellus malesuada maecenas finibus nibh.",2010-11-02 17:43:59
+81,"Blaise","Schmitt",330,,"Blaise.Schmitt@sakila.com",2,0,"Blaise.Schmitt","Commodo elementum vestibulum fusce.",2010-12-02 16:00:49
+113,"Urban","Keebler",485,,"Urban.Keebler@sakila.com",1,0,"Urban.Keebler","Pellentesque eget vel urna nisl iaculis.",2010-01-03 07:40:03
+114,"Trey","Collier",342,,"Trey.Collier@sakila.com",1,1,"Trey.Collier","Aliquet vehicula lectus malesuada.",2010-02-03 02:25:02
+115,"Madie","Roberts",349,,"Madie.Roberts@sakila.com",2,0,"Madie.Roberts","Lacus nisi Lacus nisi.",2010-02-03 22:02:19
+116,"Ottis","Will",472,,"Ottis.Will@sakila.com",1,1,"Ottis.Will","Mi proin congue dapibus lectus eget.",2010-03-03 15:00:31
+117,"Kane","Zboncak",132,,"Kane.Zboncak@sakila.com",1,0,"Kane.Zboncak","Sit vivamus pretium proin vivamus neque.",2010-03-03 17:21:55
+118,"Era","Turner",232,,"Era.Turner@sakila.com",2,1,"Era.Turner","Elementum consectetur tempor viverra.",2010-03-03 22:36:04
+119,"Ezekiel","Erdman",555,,"Ezekiel.Erdman@sakila.com",1,1,"Ezekiel.Erdman","Eros sollicitudin Eros sollicitudin.",2010-04-03 04:08:15
+120,"Rodrick","Ullrich",153,,"Rodrick.Ullrich@sakila.com",1,1,"Rodrick.Ullrich","Varius finibus in nulla justo sapien.",2010-04-03 06:41:09
+121,"Noemi","Thiel",291,,"Noemi.Thiel@sakila.com",1,1,"Noemi.Thiel","Fermentum adipiscing aliquam eu.",2010-04-03 08:59:07
+122,"Haley","Veum",556,,"Haley.Veum@sakila.com",1,1,"Haley.Veum","Urna facilisi lacus laoreet ornare.",2010-04-03 14:47:11
+123,"Green","Runolfsdottir",193,,"Green.Runolfsdottir@sakila.com",1,1,"Green.Runolfsdot","Felis aliquam sollicitudin suspendisse.",2010-05-03 04:53:07
+124,"Jasper","Nolan",265,,"Jasper.Nolan@sakila.com",1,0,"Jasper.Nolan","Diam odio eu quam ac in iaculis mollis.",2010-05-03 11:02:28
+125,"Jaden","Bauch",484,,"Jaden.Bauch@sakila.com",1,1,"Jaden.Bauch","Eu augue molestie Eu augue molestie.",2010-05-03 21:37:58
+126,"Retta","Kling",230,,"Retta.Kling@sakila.com",2,1,"Retta.Kling","Et mollis orci suscipit tempor nam.",2010-06-03 12:12:59

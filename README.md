@@ -63,6 +63,7 @@ Some features are missing or broken.
 
 # Changes
 
+* 1.3 2023-02-11 Now Mysql has foreign keys.
 * 1.2 added MySQL and CSV
 
 * 1.1 changed from .bak (only for sql server 2019) to .sql (compatible with sql server 2008 r2 and higher). While it is slow to load, but it is more compatible

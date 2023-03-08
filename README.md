@@ -1,4 +1,5 @@
 # Sakila Database 2021
+An example database to test and evaluation.
 It is a more complete example of database called Sakila for sql server 2008-r2 and higher, and Mysql 8.0 and higher.
 
 Also, in the folder csv, you can find the information in csv format (comma separated, double quotes as string delimiter)
@@ -10,7 +11,8 @@ Also, in the folder csv, you can find the information in csv format (comma separ
 
 *This image is just for reference. Copyright their own authors.*
 
-Sakila Database is an old example database made by the people of MySql (now Oracle Corporation) to test and exercise its database. It consists a database of an old video-club that rents movies. It has movies, actors, customers, staff, etc.
+Sakila Database is an old example database made by the people of MySql (now Oracle Corporation) to test and exercise its
+database. It consists a database of an old video-club that rents movies. It has movies, actors, customers, staff, etc.
 
 ![doc/blockbuster.jpg](doc/blockbuster.jpg)
 
@@ -21,18 +23,28 @@ Sakila Database is an old example database made by the people of MySql (now Orac
 
 * Connect to Sql Server (you can use SSMS)
 * Create a new database called sakila2021
-* Open the sql script [sql_server_sakila2021_schema_data.sql](sql_server_sakila2021_schema_data.sql)
+* Open the sql script [sqlserver/sql_server_sakila2021_schema_data.sql](sqlserver/sql_server_sakila2021_schema_data.sql)
 * And runs it.
 
 ## MySQL
 
 * Connect to MySQL (you can use Mysql Workbench)
 * create a new database called sakila2021
-* Open the sql script [mysql_server_sakila2021_schema_data.sql](mysql_server_sakila2021_schema_data.sql)
+* Open the sql script [mysql/mysql_sakila2021_schema_data.sql](mysql/mysql_sakila2021_schema_data.sql)
+* Or you can run a lite version [mysql/mysql_sakila2021_schema_data_lite.sql](mysql/mysql_sakila2021_schema_data_lite.sql)
 * And runs it.
 
 > Old version of MySQL. If you want to run in an old version of MYSQL, then you must change the collation utf8mb3 to
 > something that fits your version of MySQL.
+
+## Oracle
+
+* First, you must create a schema/user called SAKILA2021 using the tablespace TABLESAKILA2021
+  * If you don't want to create a different tablespace, then you can replace the text __TABLESPACE "TABLESAKILA2021"__ 
+to the tablespace desired.
+* Open the script [oracle/oracle_sakila2021_schema_data.sql](oracle/oracle_sakila2021_schema_data.sql) and run it.
+* It must work with Oracle 12c and higher.
+
 
 ## New features
 
@@ -62,7 +74,7 @@ Some features are missing or broken.
 * The table inventory needs some cleanups.
 
 # Changes
-
+* 1.4 2023-03-08 Added Oracle.
 * 1.3 2023-02-11 Now Mysql has foreign keys.
 * 1.2 added MySQL and CSV
 

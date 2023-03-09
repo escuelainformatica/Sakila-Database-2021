@@ -1,6 +1,7 @@
 # Sakila Database 2021
 An example database to test and evaluation.
-It is a more complete example of database called Sakila for sql server 2008-r2 and higher, and Mysql 8.0 and higher.
+It is a more complete example of database called Sakila for sql server 2008-r2 and higher, Mysql 8.0 and higher, and
+Oracle 12 and higher.
 
 Also, in the folder csv, you can find the information in csv format (comma separated, double quotes as string delimiter)
 
